@@ -1,6 +1,3 @@
-Here is a sample `README.md` section you can include in your project that explains setting up the `.env` file and other necessary setup steps:
-
-````markdown
 # Blog Website Backend Setup
 
 This project is a blogging platform backend built using Node.js, Express.js, MySQL, and Prisma ORM.
@@ -12,7 +9,7 @@ This project is a blogging platform backend built using Node.js, Express.js, MyS
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
-````
+```
 
 ### 2. Install Dependencies
 
